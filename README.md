@@ -1,1 +1,1 @@
-# book_effective-java
+# Core Java (Fundamentals & Advanced Features)
