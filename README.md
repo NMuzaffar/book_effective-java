@@ -1,1 +1,1 @@
-# Core Java (Fundamentals & Advanced Features)
+# Effective Java, Third Edition
